@@ -1,1 +1,1 @@
-﻿<h2> Calculadora feita em Python <h2> 
+Calculadora simples feita em Python
